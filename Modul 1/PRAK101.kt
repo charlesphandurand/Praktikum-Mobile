@@ -7,7 +7,7 @@ fun main(){
     if (waktu.equals("pagi", true)){
     } else if (waktu.equals("siang", true)){
     } else if (waktu.equals("sore", true)){
-    }  else if (waktu.equals("malam", true)) {
+    } else if (waktu.equals("malam", true)) {
     } else{
         println("Hanya menerima input berupa waktu (Pagi, Siang, Sore, Malam)")
         exitProcess(1)
